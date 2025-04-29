@@ -213,7 +213,7 @@ disableImageOptimization = true
 disableTextInHeader = false
 backgroundImageWidth = 1920
 
-defaultBackgroundImage = "img/banner.png" # used as default for background images 
+defaultBackgroundImage = "img/background.svg" # used as default for background images 
 defaultFeaturedImage = "img/banner.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true

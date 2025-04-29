@@ -20,6 +20,38 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 
 ---
+
+## Experience
+
+<table>
+  <thead>
+    <tr>
+      <th>File</th>
+      <th>Preview</th>
+      <th>Download</th>
+    </tr>
+    
+  </thead>
+  <tbody>
+    <!-- ATOM SOLUTION -->
+    <tr> 
+      <td>CV&nbsp;DevOps&nbsp;Engineer&nbsp;(PDF)</td> 
+      <td> 
+        <a href="cv.pdf" target="_blank" rel="noopener noreferrer"> 
+          See now 
+        </a> 
+      </td> 
+      <td> 
+        <a href="cv.pdf" download> 
+          Download 
+        </a> 
+      </td> 
+    </tr> 
+
+  </tbody>
+  
+</table>
+
 ## Experience
 
 <table>
@@ -69,6 +101,35 @@ layoutBackgroundHeaderSpace: false
             <td>2025</td>
         </tr>
     </tbody>
+</table>
+
+---
+
+## CV 
+ 
+<table style="margin: auto;"> 
+  <thead> 
+    <tr> 
+      <th>File</th> 
+      <th>Preview</th> 
+      <th>Download</th> 
+    </tr> 
+  </thead> 
+  <tbody> 
+    <tr> 
+      <td>CV&nbsp;DevOps&nbsp;Engineer&nbsp;(PDF)</td> 
+      <td> 
+        <a href="cv.pdf" target="_blank" rel="noopener noreferrer"> 
+          See now 
+        </a> 
+      </td> 
+      <td> 
+        <a href="cv.pdf" download> 
+          Download 
+        </a> 
+      </td> 
+    </tr> 
+  </tbody> 
 </table>
 
 ---
