@@ -1,6 +1,7 @@
 version: '3.8'
 
 services:
+
   hugo-nginx:
     image: 982534381318.dkr.ecr.ap-southeast-1.amazonaws.com/portfolio:latest
     # build:
@@ -9,3 +10,4 @@ services:
     ports:
       - "8080:80"
     container_name: hugo_nginx_site
+    restart: always
