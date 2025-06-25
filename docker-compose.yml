@@ -12,5 +12,5 @@ services:
     container_name: hugo_nginx_site
     restart: always
     volumes:
-      - ./public:/usr/share/nginx/html:ro
-      - ./assets:/usr/share/nginx/html/assets:ro
+      - /home/ubuntu/public:/usr/share/nginx/html:ro
+      - /home/ubuntu/assets:/usr/share/nginx/html/assets:ro
