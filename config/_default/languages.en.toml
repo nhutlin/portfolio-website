@@ -16,11 +16,11 @@ title = "LinhTran's"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Linh Tran-Nhut"
+  name = "Hello World"
   email = "nhutlinh.work@gmail.com"
   image = "img/pic.jpg"
   imageQuality = 96
-  headline = "DevOps Engineer @ Atom x Esollabs"
+  headline = "Tran Nhut Linh sends greetings to Gearment company"
   bio = "Hi 👋 I’m a DevOps engineer passionate about building stable, efficient systems. I specialize in CI/CD, infrastructure optimization, and cloud-native automation. I enjoy sharing knowledge through open-source and always look to learn and grow with the DevOps community."
   links = [
     { email = "mailto:nhutlinh.work@gmail.com" },

@@ -3,126 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/categories/automation/</loc>
+    <loc>https://example.org/categories/automation/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/202109-the-future-of-nintendo/</loc>
+    <loc>https://example.org/posts/202109-the-future-of-nintendo/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://example.org/tags/linux/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/scripting/</loc>
+    <loc>https://example.org/tags/scripting/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/ansible/</loc>
+    <loc>https://example.org/tags/ansible/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/document/</loc>
+    <loc>https://example.org/categories/document/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/202504-install/</loc>
+    <loc>https://example.org/posts/202504-install/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://example.org/projects/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://example.org/resume/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/wazuh/</loc>
+    <loc>https://example.org/tags/wazuh/</loc>
     <lastmod>2024-10-31T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/cicd/</loc>
+    <loc>https://example.org/tags/cicd/</loc>
     <lastmod>2024-09-16T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/devops/</loc>
+    <loc>https://example.org/tags/devops/</loc>
     <lastmod>2024-09-16T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/202504-implementing-devsecops-model-for-e-commerce-web-application/</loc>
+    <loc>https://example.org/posts/202504-implementing-devsecops-model-for-e-commerce-web-application/</loc>
     <lastmod>2024-09-16T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/microservices/</loc>
+    <loc>https://example.org/tags/microservices/</loc>
     <lastmod>2024-09-16T20:28:53+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2022-06-13T20:55:37+07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://example.org/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://example.org/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
