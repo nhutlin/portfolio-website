@@ -1,8 +1,8 @@
 # Stage 1
-FROM alpine:latest AS build
+FROM alpine:3.21 AS build
 
 # Install the Hugo go app.
-RUN apk add --update hugo
+RUN apk add hugo
 
 WORKDIR /opt/HugoApp
 
