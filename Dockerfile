@@ -10,7 +10,7 @@ WORKDIR /opt/HugoApp
 COPY . .
 
 # Run Hugo in the Workdir to generate HTML.
-RUN hugo 
+RUN hugo mod tidy && hugo
 
 # Stage 2
 FROM nginx:1.25-alpine
